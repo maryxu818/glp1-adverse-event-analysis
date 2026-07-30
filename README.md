@@ -24,8 +24,7 @@ This project analyzes the adverse event reporting data from the publicly availab
 
 - Python
 - Pandas
-- NumPy
-- Matplotlib
+
 
 ## Key Findings
 
