@@ -34,10 +34,9 @@ This project analyzes a publicly available adverse event dataset to compare weig
 
 ## Repository Structure
 
-- README.md — Project overview and methodology
-- analysis.py — Python script for data cleaning and analysis
-- adverse_events_summary.csv — Original dataset
-- glp1_weight_analysis.csv — Processed analysis results
+- README.md — Project overview
+- analysis.py — Data cleaning, aggregation, and reporting analysis
+- glp1_weight_analysis.csv — Final analysis results
 
 ## Disclaimer
 
