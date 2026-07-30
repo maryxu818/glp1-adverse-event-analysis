@@ -4,14 +4,15 @@ Python analysis of publicly available GLP-1 adverse event reports, focusing on w
 
 ## Project Overview
 
-This project analyzes a publicly available adverse event dataset to compare weight-related reporting patterns among GLP-1 receptor agonists. The analysis focuses on reporting share, female representation, and average reported age using Python and Pandas.
-
+This project analyzes the adverse event reporting data from the publicly available GLP-1 Weight Loss Drugs Master Dataset (2017–2026) to compare weight-related reporting patterns among GLP-1 receptor agonists. The analysis focuses on reporting share, female representation, and average reported age using Python and Pandas.
 ## Dataset
 
-- **Source:** Publicly available Kaggle dataset
+- **Source:** [GLP-1 Weight Loss Drugs Master Dataset (2017–2026)](https://www.kaggle.com/datasets/devtayyabsajjad/glp-1-weight-loss-drugs-master-dataset-2017-2026)
+- **License:** CC0 Public Domain
 - **Records:** 11,093 aggregated adverse event records
 - **Drugs analyzed:** Semaglutide, Tirzepatide, Liraglutide, Dulaglutide, Exenatide, Lixisenatide, Albiglutide
-
+- **Note:** The original dataset is not included in this repository due to file size. The processed analysis results (`glp1_weight_analysis.csv`) are provided.
+  
 ## Objectives
 
 - Identify weight-related adverse event reports.
